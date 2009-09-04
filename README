@@ -1,0 +1,27 @@
+This is just the simple and fun run.
+
+No professional/specialized/state-of-art recsys algorithms.
+
+Among algorithms used in the code, two are most 'effective':
+
+1. co-ocurrences pair
+2. repo tree walk-up
+
+Others (stat on lang, watchers, etc.) does not improve the result much.
+
+
+The co-occurrences info is dumped at first time run and can be directly
+loaded at later runs.
+
+
+
+LICENSE: Beerware License  http://en.wikipedia.org/wiki/Beerware
+
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE":
+ * <alecsk@gmail.com> wrote this. As long as you retain this notice you can do
+ * whatever you want with this stuff.  If we meet some day, and you think this
+ * stuff is worth it, you can buy me a beer in return Alecs King
+ * ----------------------------------------------------------------------------
+ */
